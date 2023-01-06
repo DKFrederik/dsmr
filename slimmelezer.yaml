@@ -84,13 +84,13 @@ dsmr:
 sensor:
   - platform: dsmr
     energy_delivered_lux:
-      name: "Energy Consumed Luxembourg"
+      name: "Energy Consumed"
     energy_delivered_tariff1:
       name: "Energy Consumed Tariff 1"
     energy_delivered_tariff2:
       name: "Energy Consumed Tariff 2"
     energy_returned_lux:
-      name: "Energy Produced Luxembourg"
+      name: "Energy Produced"
     energy_returned_tariff1:
       name: "Energy Produced Tariff 1"
     energy_returned_tariff2:
